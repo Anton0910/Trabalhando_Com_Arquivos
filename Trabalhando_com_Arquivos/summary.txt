@@ -1,0 +1,4 @@
+Produto [nome=TV LED, preco=1290.99]
+Produto [nome=Video Game Chair, preco=1051.5]
+Produto [nome=Iphone X, preco=1800.0]
+Produto [nome=Samsung Galaxy 9, preco=1700.0]
